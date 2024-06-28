@@ -1,4 +1,4 @@
-<h1>Hiii 👋 I'm Arya Bandhu Panwar</h1>
+<h1>Hii 👋 I'm Arya Bandhu Panwar</h1>
 # 💫 About Me:
 I'm Currently Working on Android App Development<br>I'm Currently Learning React js and node js<br>
 
